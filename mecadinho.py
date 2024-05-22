@@ -1,12 +1,3 @@
-'''
-produtos lista armazenar os dados
-
-0 = carne
-1 = ovo
-[0,1]
-
-'''
-
 produtos = []
 caixa = 0
 seleciona = any
